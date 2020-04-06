@@ -7,17 +7,20 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		25787F892436434A0066701D /* PolynomialConverter.m in Sources */ = {isa = PBXBuildFile; fileRef = 25787F872436434A0066701D /* PolynomialConverter.m */; };
+		25787F8B243643590066701D /* T3_PolynomialTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 25787F8A243643590066701D /* T3_PolynomialTests.m */; };
+		25787F8E243643770066701D /* Combinator.m in Sources */ = {isa = PBXBuildFile; fileRef = 25787F8D243643770066701D /* Combinator.m */; };
+		25787F90243643830066701D /* T3_CombinatorTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 25787F8F243643830066701D /* T3_CombinatorTests.m */; };
+		25787FA2243644610066701D /* RS_Task3_UICheckerUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 25787FA1243644610066701D /* RS_Task3_UICheckerUITests.m */; };
+		25787FA4243645730066701D /* Combinator.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 25787FA3243645720066701D /* Combinator.pdf */; };
+		25787FA62436460F0066701D /* Polynomial.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 25787FA52436460E0066701D /* Polynomial.pdf */; };
+		25787FAB243665140066701D /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 25787FA8243665140066701D /* ViewController.m */; };
+		25787FAC243665140066701D /* Task 3 - Great mixer.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 25787FA9243665140066701D /* Task 3 - Great mixer.pdf */; };
 		E3821557225B533B00E3B12B /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = E3821556225B533B00E3B12B /* AppDelegate.m */; };
 		E382155F225B533E00E3B12B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E382155E225B533E00E3B12B /* Assets.xcassets */; };
 		E3821562225B533E00E3B12B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E3821560225B533E00E3B12B /* LaunchScreen.storyboard */; };
 		E3821565225B533E00E3B12B /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = E3821564225B533E00E3B12B /* main.m */; };
-		E382156F225B533E00E3B12B /* FullBinaryTreesTests.m in Sources */ = {isa = PBXBuildFile; fileRef = E382156E225B533E00E3B12B /* FullBinaryTreesTests.m */; };
-		E382157A225B533E00E3B12B /* DateMachineTests.m in Sources */ = {isa = PBXBuildFile; fileRef = E3821579225B533E00E3B12B /* DateMachineTests.m */; };
-		E39C2564225B683500C3BCC1 /* FullBinaryTrees.m in Sources */ = {isa = PBXBuildFile; fileRef = E39C2563225B683500C3BCC1 /* FullBinaryTrees.m */; };
-		E39C2567225B877F00C3BCC1 /* ExampleTrees.png in Resources */ = {isa = PBXBuildFile; fileRef = E39C2566225B877F00C3BCC1 /* ExampleTrees.png */; };
-		E39C256C225B898A00C3BCC1 /* ArrayPrint.m in Sources */ = {isa = PBXBuildFile; fileRef = E39C256B225B898A00C3BCC1 /* ArrayPrint.m */; };
-		E39C256E225B8DAA00C3BCC1 /* ArrayPrintTests.m in Sources */ = {isa = PBXBuildFile; fileRef = E39C256D225B8DAA00C3BCC1 /* ArrayPrintTests.m */; };
-		E39C2577225CAA7E00C3BCC1 /* DateMachine.m in Sources */ = {isa = PBXBuildFile; fileRef = E39C2576225CAA7E00C3BCC1 /* DateMachine.m */; };
+		E545E42D24389EF3009E862F /* Item.m in Sources */ = {isa = PBXBuildFile; fileRef = E545E42C24389EF3009E862F /* Item.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,6 +41,18 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		25787F872436434A0066701D /* PolynomialConverter.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PolynomialConverter.m; sourceTree = "<group>"; };
+		25787F882436434A0066701D /* PolynomialConverter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PolynomialConverter.h; sourceTree = "<group>"; };
+		25787F8A243643590066701D /* T3_PolynomialTests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = T3_PolynomialTests.m; sourceTree = "<group>"; };
+		25787F8C243643770066701D /* Combinator.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Combinator.h; sourceTree = "<group>"; };
+		25787F8D243643770066701D /* Combinator.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Combinator.m; sourceTree = "<group>"; };
+		25787F8F243643830066701D /* T3_CombinatorTests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = T3_CombinatorTests.m; sourceTree = "<group>"; };
+		25787FA1243644610066701D /* RS_Task3_UICheckerUITests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RS_Task3_UICheckerUITests.m; sourceTree = "<group>"; };
+		25787FA3243645720066701D /* Combinator.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = Combinator.pdf; sourceTree = "<group>"; };
+		25787FA52436460E0066701D /* Polynomial.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = Polynomial.pdf; sourceTree = "<group>"; };
+		25787FA8243665140066701D /* ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		25787FA9243665140066701D /* Task 3 - Great mixer.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Task 3 - Great mixer.pdf"; sourceTree = "<group>"; };
+		25787FAA243665140066701D /* ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		E3821552225B533B00E3B12B /* RSSchool_T3.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RSSchool_T3.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E3821555225B533B00E3B12B /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		E3821556225B533B00E3B12B /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -46,19 +61,11 @@
 		E3821563225B533E00E3B12B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E3821564225B533E00E3B12B /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		E382156A225B533E00E3B12B /* RSSchool_T3Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = RSSchool_T3Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		E382156E225B533E00E3B12B /* FullBinaryTreesTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FullBinaryTreesTests.m; sourceTree = "<group>"; };
 		E3821570225B533E00E3B12B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E3821575225B533E00E3B12B /* RSSchool_T3UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = RSSchool_T3UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		E3821579225B533E00E3B12B /* DateMachineTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DateMachineTests.m; sourceTree = "<group>"; };
 		E382157B225B533E00E3B12B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		E39C2562225B683500C3BCC1 /* FullBinaryTrees.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FullBinaryTrees.h; sourceTree = "<group>"; };
-		E39C2563225B683500C3BCC1 /* FullBinaryTrees.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FullBinaryTrees.m; sourceTree = "<group>"; };
-		E39C2566225B877F00C3BCC1 /* ExampleTrees.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ExampleTrees.png; sourceTree = "<group>"; };
-		E39C256A225B898A00C3BCC1 /* ArrayPrint.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ArrayPrint.h; sourceTree = "<group>"; };
-		E39C256B225B898A00C3BCC1 /* ArrayPrint.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ArrayPrint.m; sourceTree = "<group>"; };
-		E39C256D225B8DAA00C3BCC1 /* ArrayPrintTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ArrayPrintTests.m; sourceTree = "<group>"; };
-		E39C2575225CAA7E00C3BCC1 /* DateMachine.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DateMachine.h; sourceTree = "<group>"; };
-		E39C2576225CAA7E00C3BCC1 /* DateMachine.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DateMachine.m; sourceTree = "<group>"; };
+		E545E42B24389EF3009E862F /* Item.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Item.h; sourceTree = "<group>"; };
+		E545E42C24389EF3009E862F /* Item.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Item.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -86,6 +93,16 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		25787FA7243665140066701D /* 3  */ = {
+			isa = PBXGroup;
+			children = (
+				25787FA9243665140066701D /* Task 3 - Great mixer.pdf */,
+				25787FAA243665140066701D /* ViewController.h */,
+				25787FA8243665140066701D /* ViewController.m */,
+			);
+			path = "3 ";
+			sourceTree = "<group>";
+		};
 		E3821549225B533B00E3B12B = {
 			isa = PBXGroup;
 			children = (
@@ -111,7 +128,7 @@
 			children = (
 				E39C2569225B88F700C3BCC1 /* 1 */,
 				E39C2565225B684500C3BCC1 /* 2 */,
-				E39C2578225CAA8500C3BCC1 /* 3 */,
+				25787FA7243665140066701D /* 3  */,
 				E3821555225B533B00E3B12B /* AppDelegate.h */,
 				E3821556225B533B00E3B12B /* AppDelegate.m */,
 				E382155E225B533E00E3B12B /* Assets.xcassets */,
@@ -125,8 +142,8 @@
 		E382156D225B533E00E3B12B /* RSSchool_T3Tests */ = {
 			isa = PBXGroup;
 			children = (
-				E39C256D225B8DAA00C3BCC1 /* ArrayPrintTests.m */,
-				E382156E225B533E00E3B12B /* FullBinaryTreesTests.m */,
+				25787F8A243643590066701D /* T3_PolynomialTests.m */,
+				25787F8F243643830066701D /* T3_CombinatorTests.m */,
 				E3821570225B533E00E3B12B /* Info.plist */,
 			);
 			path = RSSchool_T3Tests;
@@ -135,7 +152,7 @@
 		E3821578225B533E00E3B12B /* RSSchool_T3UITests */ = {
 			isa = PBXGroup;
 			children = (
-				E3821579225B533E00E3B12B /* DateMachineTests.m */,
+				25787FA1243644610066701D /* RS_Task3_UICheckerUITests.m */,
 				E382157B225B533E00E3B12B /* Info.plist */,
 			);
 			path = RSSchool_T3UITests;
@@ -144,9 +161,9 @@
 		E39C2565225B684500C3BCC1 /* 2 */ = {
 			isa = PBXGroup;
 			children = (
-				E39C2562225B683500C3BCC1 /* FullBinaryTrees.h */,
-				E39C2563225B683500C3BCC1 /* FullBinaryTrees.m */,
-				E39C2566225B877F00C3BCC1 /* ExampleTrees.png */,
+				25787FA3243645720066701D /* Combinator.pdf */,
+				25787F8C243643770066701D /* Combinator.h */,
+				25787F8D243643770066701D /* Combinator.m */,
 			);
 			path = 2;
 			sourceTree = "<group>";
@@ -154,19 +171,13 @@
 		E39C2569225B88F700C3BCC1 /* 1 */ = {
 			isa = PBXGroup;
 			children = (
-				E39C256A225B898A00C3BCC1 /* ArrayPrint.h */,
-				E39C256B225B898A00C3BCC1 /* ArrayPrint.m */,
+				25787FA52436460E0066701D /* Polynomial.pdf */,
+				25787F882436434A0066701D /* PolynomialConverter.h */,
+				25787F872436434A0066701D /* PolynomialConverter.m */,
+				E545E42B24389EF3009E862F /* Item.h */,
+				E545E42C24389EF3009E862F /* Item.m */,
 			);
 			path = 1;
-			sourceTree = "<group>";
-		};
-		E39C2578225CAA8500C3BCC1 /* 3 */ = {
-			isa = PBXGroup;
-			children = (
-				E39C2575225CAA7E00C3BCC1 /* DateMachine.h */,
-				E39C2576225CAA7E00C3BCC1 /* DateMachine.m */,
-			);
-			path = 3;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -272,9 +283,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				25787FA4243645730066701D /* Combinator.pdf in Resources */,
 				E3821562225B533E00E3B12B /* LaunchScreen.storyboard in Resources */,
+				25787FA62436460F0066701D /* Polynomial.pdf in Resources */,
 				E382155F225B533E00E3B12B /* Assets.xcassets in Resources */,
-				E39C2567225B877F00C3BCC1 /* ExampleTrees.png in Resources */,
+				25787FAC243665140066701D /* Task 3 - Great mixer.pdf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -299,11 +312,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E39C256C225B898A00C3BCC1 /* ArrayPrint.m in Sources */,
+				E545E42D24389EF3009E862F /* Item.m in Sources */,
 				E3821565225B533E00E3B12B /* main.m in Sources */,
-				E39C2577225CAA7E00C3BCC1 /* DateMachine.m in Sources */,
+				25787F8E243643770066701D /* Combinator.m in Sources */,
+				25787F892436434A0066701D /* PolynomialConverter.m in Sources */,
 				E3821557225B533B00E3B12B /* AppDelegate.m in Sources */,
-				E39C2564225B683500C3BCC1 /* FullBinaryTrees.m in Sources */,
+				25787FAB243665140066701D /* ViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -311,8 +325,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E382156F225B533E00E3B12B /* FullBinaryTreesTests.m in Sources */,
-				E39C256E225B8DAA00C3BCC1 /* ArrayPrintTests.m in Sources */,
+				25787F90243643830066701D /* T3_CombinatorTests.m in Sources */,
+				25787F8B243643590066701D /* T3_PolynomialTests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -320,7 +334,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E382157A225B533E00E3B12B /* DateMachineTests.m in Sources */,
+				25787FA2243644610066701D /* RS_Task3_UICheckerUITests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
